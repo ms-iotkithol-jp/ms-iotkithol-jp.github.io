@@ -1,6 +1,6 @@
 ---
 layout: code
-title: Release Notes
+title: さあはじめよう
 permalink: /LetsBegin.htm
 ---
 
@@ -14,6 +14,10 @@ permalink: /LetsBegin.htm
 
 ## 学習コンテンツの提供
 学習コンテンツは、[Microsoft Virtual Academy](http://msdn.microsoft.com/ja-jp/dn376515.aspx) から2014年11月に提供予定です。今しばらくお待ちください。
+
+### 待ちきれない方には
+先ずは、[GadgeteerとAzureで作る簡易温度計](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) をお試しください。
+
 
 <br/>
   <a class="btn btn-default" href="index.htm" role="button">Return to homepage</a>
