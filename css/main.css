@@ -31,17 +31,17 @@ body
 {
   .headerBackground
   {
-    background-image: url('../images/Iot.jpg');
-    background-color: #3C3C3C;
+    background-image: url('../images/IoTKitHandsOnTrainingHeader.png');
+    background-color: #002060;
     background-position: 100%;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 526px;
   }
 }
 
 .headerBackground
 {
-  background-color: #3C3C3C;
+  background-color: #002060;
   height: 400px;
 }
 
