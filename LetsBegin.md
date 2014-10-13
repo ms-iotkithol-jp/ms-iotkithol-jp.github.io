@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: code
 title: Release Notes
 permalink: /LetsBegin.htm
 ---
