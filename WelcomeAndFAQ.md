@@ -4,29 +4,14 @@ title: FAQ
 permalink: /WelcomeAndFAQ.htm
 ---
 
-### *Dear Community,*
+### *Internet of Things に興味のある皆様へ*
 
 
-We're surrounded by all kinds of smart devices.  Cars and parking meters and microwaves and watches.  But for years, it's been difficult to get started making your own devices.  On your desk, in your home, in your garage.
+Internet of Things（以下 IoT と略す）の構築には、ITの知識と組込み機器の両方のソフトウェア開発スキルが必要です。
 
-In the last few years, we've seen an explosion in accessible, DIY hardware and software.  A lot of this has come about because of the great work done by the Arduino folks.  Their approach makes it easy and cost effective for anyone to get started.  With pluggable hardware modules, code that is easy to write and understand, and a community focused on sharing, it’s easy to play and learn.  And in no time, you’ve created your own cool device.
+IoT Kit ハンズオントレーニングは、本物のセンサーと組込み制御向けマイクロコントローラを使い、クラウドと連携するソフトウェア開発方法を体系的に学び、IoT構築に必要な基本開発スキルの獲得を目的とした学習コンテンツです。
 
-We love the idea of making hardware and software more accessible to everyone.  The other thing that's important to us is that these devices don't live in isolation, but as part of a connected cloud of devices and services.
-
-So when we looked at the device maker space, we wondered how we could start to participate and contribute.  We’ve got a bunch of ideas, but this program offers the first place where we think we can make a difference.  We think there’s a set of makers who want web connectivity and processing power alongside straightforward hardware building.
-
-As a first step, we’ve crafted a device development experience where you run a small version of Windows directly on your device.  This means you can write apps using Arduino Wiring APIs right alongside regular Windows code.  This runs on a device (in this case, an Intel Galileo) that has Arduino-compatible pinouts right alongside a gutsy little CPU.
-
-So, if you're a hardware developer who dabbles in software, you can bring your Arduino sketches and shields directly into your project, while leveraging Windows code for cloud connectivity and other computing-intensive tasks.
-
-And if you're already a software dev, you can write a regular Windows application that also has easy, direct access to hardware through the Arduino Wiring API set, extending your solution into the physical world.
-
-Of course, this first program is just the beginning.  After all, we’re a devices *and* services company.  
-
-We’re glad you’re onboard for the ride,  and *we can’t wait to see what you’ll make.*
-
-
-### The Microsoft IoT Team
+FA、医療、ウェアラブル、流通、プラント、社会インフラをはじめとする様々な分野でIoTの導入を検討している技術者、情報処理や電子回路を学ぶ学生、各種ガジェットのネットワーク連携をしてみたいホビーイスト、等々、組込み機器とIT、クラウド連携に関する知見が必要な皆様、是非ご活用ください。
   
   
   
@@ -192,7 +177,6 @@ For community resources, visit [WindowsOnDevices.com#Community](http://windowson
 
 Twitter:
 
-* [Pete Brown](https://twitter.com/Pete_Brown)
-* [Dan Rosenstein](https://twitter.com/IoTDan)
-* Our hashtag #winbuilders
+* [太田 寛](https://twitter.com/embedded_george)
+* ハッシュタグ #iotkitholjp
 
