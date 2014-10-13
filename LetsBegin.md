@@ -13,10 +13,10 @@ permalink: /LetsBegin.htm
 
 
 ## 学習コンテンツの提供
-学習コンテンツは、[Microsoft Virtual Academy](http://msdn.microsoft.com/ja-jp/dn376515.aspx) から2014年11月に提供予定です。今しばらくお待ちください。
+学習コンテンツは、[Microsoft Virtual Academy](http://msdn.microsoft.com/ja-jp/dn376515.aspx) から2014年11月から提供予定です。今しばらくお待ちください。
 
 ### 待ちきれない方には
-先ずは、[GadgeteerとAzureで作る簡易温度計](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) をお試しください。
+先ずは、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
 
 <br/>
