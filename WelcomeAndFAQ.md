@@ -39,7 +39,7 @@ FA、医療、ウェアラブル、流通、プラント、社会インフラを
 
 ##お問合せ先
 
-For community resources, visit [WindowsOnDevices.com#Community](http://windowsondevices.com#Community)
+メールによる問合せ [iotkithol-jp@microsoft.com](mailto:iotkithol-jp@microsoft.com)
 
 Twitter:
 
