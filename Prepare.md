@@ -9,13 +9,19 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 
 ## ハードウェア
 
-### IoT Kit（仮称）
+### GR版 IoT Kit（仮称）
 各種センサー付.NET Micro Framework対応ボード
 
 * GR-PEACH(RZ 400Mhz, RAM8MB)、センサー付ボード
 * 予定価格 9000円前後
-* 販売開始時期 2014年11月中旬を予定
+* 販売開始時期 調整中
 * 販売場所 http://wakamatsu.co.jp
+
+### FEZ版 IoT Kit（仮称）
+* FEZ Spider, Ethernet J11D, USB Client SP, Accel G248, TempHumid SI70, Relay X1 のセット
+* 予定価格 調整中
+* 販売開始時期 調整中
+* 販売場所 調整中
   
 ## 開発環境
 
@@ -26,8 +32,7 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 
 ### Visual Studio
 
-* Visual Studio 2012 - 組込み機器側開発向け
-* Visual Studio 2013 - IT、クラウド側開発向け  
+* Visual Studio 2013  
 ※有償版、無償版共に利用可能
 
 ### その他
