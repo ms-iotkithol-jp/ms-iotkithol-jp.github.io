@@ -6,8 +6,6 @@ permalink: /LetsBegin.htm
 
 <div class="jumbotron">
   <div class="container">
-    <h1>只今準備中</h1>
-    <p>今しばらくお待ちください</p>
   </div>
 </div>
 
@@ -22,10 +20,12 @@ permalink: /LetsBegin.htm
 
 ### 詳細手順書
 * [Step 0．準備編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning00_Overview.docx?raw=true)
-* 
+* [Step 1．接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning01_Connect.docx?raw=true)
+* [Step 2．計測編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)
+* [Step 3．蓄積編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)
 
-### 待ちきれない方には
-先ずは、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
+### 他にも
+こんなコンテンツもあります、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
 
 <br/>
