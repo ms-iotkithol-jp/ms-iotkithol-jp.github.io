@@ -27,6 +27,10 @@ permalink: /LetsBegin.htm
 ### 他にも
 こんなコンテンツもあります、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
+## コントリビューター募集
+この一連のトレーニングの、IoT Kitに関する学習部分、mbedやGRさくら、Arduino、LEGO MINDSTORMS、Raspberry PI、T-Kernel、μITron、VxWorkdなど別のプラットフォームで学習する場合のコンテンツを作りませんか？
+
+メールによる問合せ [iotkithol-jp@microsoft.com](mailto:iotkithol-jp@microsoft.com)
 
 <br/>
   <a class="btn btn-default" href="index.htm" role="button">Return to homepage</a>

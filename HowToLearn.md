@@ -13,9 +13,10 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 ## セミナー、イベント一覧
 
-* 2014/11/19-21 ET2014 マイクロソフトブース IoT Kit 展示
-* 2014/11/23-24 MAKER FAIR Tokyo IoT Kit 展示
-* 2015/1（日程未定） IoT Kit ハンズオンセミナー　
+* 2015/1/30-31 沖縄IT津梁祭り IoT Kit展示
+* 2014/12/15-19 [IoTソリューション開発セミナー](http://www.microsoft.com/ja-jp/mic/seminar/iot_ml.aspx) 募集中　
+* 2014/11/23-24 MAKER FAIR Tokyo IoT Kit 展示　－　終了しました
+* 2014/11/19-21 ET2014 マイクロソフトブース IoT Kit 展示 ー 終了しました
 
 
 <br/>
