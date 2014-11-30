@@ -15,8 +15,8 @@ permalink: /LetsBegin.htm
 ら提供予定です。今しばらくお待ちください。
 
 ### オンラインコンテンツによる学習コンテンツ
-* [基礎編](http://www.microsoftvirtualacademy.com/training-courses/IoTKitHoLBasic)
-* [トレーニング編](http://www.microsoftvirtualacademy.com/training-courses/IoTKitHoLTraining)
+* 基礎編 - http://www.microsoftvirtualacademy.com/training-courses/IoTKitHoLBasic から公開予定
+* トレーニング編 - http://www.microsoftvirtualacademy.com/training-courses/IoTKitHoLTraining から公開予定
 
 ### 詳細手順書
 * [Step 0．準備編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning00_Overview.docx?raw=true)
