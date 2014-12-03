@@ -17,11 +17,11 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 * 販売開始時期 調整中
 * 販売場所 http://wakamatsu.co.jp
 
-### FEZ版 IoT Kit（仮称）
+### FEZ版 IoT Kit - IoT Learning Kit IoT 学習キット
 * FEZ Spider, Ethernet J11D, USB Client SP, Accel G248, TempHumid SI70, Relay X1 のセット
 * 予定価格 調整中
 * 販売開始時期 調整中
-* 販売場所 [http://tinyclr.jp](http://tinyclr.jp)  セット売り準備中
+* 販売場所 [http://tinyclr.jp](http://tinyclr.jp) - [セット売りはこちらから](http://tinyclr.jp/products/IoTLearningKit.htm)
   
 ## 開発環境
 
