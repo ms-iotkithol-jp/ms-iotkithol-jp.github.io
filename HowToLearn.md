@@ -18,7 +18,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 * 2015/1/22-23 [ファームウェア活用研修 仙台」](http://www.mit.pref.miyagi.jp/embedded/kensyu_26/#firmware) - 募集中
 * 2015/1/16 [Go Azure 渋谷](http://r.jazug.jp/) - いろいろと面白そうかもw
 * 2014/12/21 [Android Bazaar and Conference 2014](http://abc.android-group.jp/2014w/) - セミナー＆展示
-* 2014/12/15-19 [IoTソリューション開発セミナー](http://www.microsoft.com/ja-jp/mic/seminar/iot_ml.aspx) 募集中　
+* 2014/12/15-19 [IoTソリューション開発セミナー](http://www.microsoft.com/ja-jp/mic/seminar/iot_ml.aspx) 実施中　
 * 2014/11/23-24 MAKER FAIR Tokyo IoT Kit 展示　－　終了しました
 * 2014/11/19-21 ET2014 マイクロソフトブース IoT Kit 展示 ー 終了しました
 

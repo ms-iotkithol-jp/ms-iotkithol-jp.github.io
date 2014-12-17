@@ -34,6 +34,7 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 
 * Visual Studio 2013  
 ※有償版、無償版共に利用可能
+FEZ版 IoT Kitの場合、[Gadgeteer開発環境セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2014/12/03/iot-kit.aspx)を参照して環境構築
 
 ### その他
 
