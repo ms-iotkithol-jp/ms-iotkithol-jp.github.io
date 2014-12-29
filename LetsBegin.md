@@ -24,6 +24,8 @@ permalink: /LetsBegin.htm
 * [Step 2．計測編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)
 * [Step 3．蓄積編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)　- 2014/12/20改定
 * [Step 4．表示編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning04_Show.docx?raw=true)
+
+
 ### 他にも
 こんなコンテンツもあります、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
