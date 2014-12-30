@@ -20,7 +20,7 @@ permalink: /LetsBegin.htm
 
 ### 詳細手順書
 * [Step 0．準備編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning00_Overview.docx?raw=true)　- 2014/12/29改定
-* [Step 1．接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning01_Connect.docx?raw=true)　- 2014/12/18改定
+* [Step 1．接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning01_Connect.docx?raw=true)　- 2014/12/30改定
 * [Step 2．計測編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)
 * [Step 3．蓄積編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)　- 2014/12/20改定
 * [Step 4．表示編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning04_Show.docx?raw=true)
