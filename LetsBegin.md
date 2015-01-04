@@ -24,7 +24,7 @@ permalink: /LetsBegin.htm
 * [Step 2．計測編](https://github.com/ms-iotkithol-jp/　Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)　- 2014/12/30改定
 * [Step 3．蓄積編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)　- 2014/12/20改定
 * [Step 4．表示編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning04_Show.docx?raw=true)　- 2014/12/30改定
-* [Step 5．分析編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- 暫定版でございます。ごめんなさい。
+* [Step 5．分析編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- 2015/1/4 Stream Analyticsまで
 * [おまけ 実習チャート](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/TrainingChart.xlsx)　- プロジェクトと作業のマップ
 
 
