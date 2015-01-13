@@ -24,7 +24,7 @@ permalink: /LetsBegin.htm
 * [Step 2．計測編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)　- 2014/12/30改定
 * [Step 3．蓄積編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)　- 2014/12/20改定
 * [Step 4．表示編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning04_Show.docx?raw=true)　- 2015/1/8改定
-* [Step 5．分析編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- 2015/1/8 初版公開
+* [Step 5．分析編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- 2015/1/13改定
 * [おまけ 実習チャート](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/TrainingChart.xlsx)　- プロジェクトと作業のマップ
 
 
@@ -36,7 +36,7 @@ permalink: /LetsBegin.htm
 
 
 ## コントリビューター募集
-この一連のトレーニングの、IoT Kitに関する学習部分、mbedやGRさくら、Arduino、LEGO MINDSTORMS、Raspberry PI、T-Kernel、μITron、VxWorkdなど別のプラットフォームで学習する場合のコンテンツを作りませんか？
+この一連のトレーニングの、IoT Kitに関する学習部分、mbedやGRさくら、Arduino、LEGO MINDSTORMS、Raspberry PI、T-Kernel、μITron、VxWorksなど別のプラットフォームで学習する場合のコンテンツを作りませんか？
 
 メールによる問合せ [iotkithol-jp@microsoft.com](mailto:iotkithol-jp@microsoft.com)
 
