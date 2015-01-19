@@ -11,8 +11,25 @@ permalink: /HowToLearn.htm
 
 IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）によるオンライントレーニングを通じての自学習、または、マイクロソフトや各種団体が実施するハンズオンセミナーによる集合形式のセミナー等での受講が可能です。
 
+### このハンズオンで学べる技術一覧
+
+* .NET Micro Framework
+* Visual Studio
+* Azure Web Sites
+* Azure Web Job
+* Azure Event Hub
+* Azure Storage
+* Azure SQL
+* Azure Mobile Servive
+* Windows Store Apps
+* Excel Power BI
+* Azure Stream Analytics
+* Azure Machine Learning
+* Azure Virtual Machine
+
 ## セミナー、イベント一覧
 
+* 2015/2/19-20 [Developer Summit 2015 19-B-4](http://event.shoeisha.jp/devsumi/20150219/timetable) - セミナー（満席御礼） セミナー以外も乞う御期待
 * 2015/2/6 [IoT（モノのインターネット）体験講習会](http://www.pref.nara.jp/item/133489.htm) - 募集中
 * 2015/1/30-31 [沖縄IT津梁祭り](http://www.it-matsuri.net/index.html) IoT Kit展示 タッチ＆トライ
 * 2015/1/26 [Azure Camp IoT Kit ハンズオントレーニングセミナー](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032609294&Culture=ja-JP&community=0) - 募集中
