@@ -21,7 +21,12 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 * FEZ Spider, Ethernet J11D, USB Client SP, Accel G248, TempHumid SI70, Relay X1 のセット
 * 価格 12,300円
 * 販売場所 [http://tinyclr.jp](http://tinyclr.jp) - [FEZ版IoT Starter Kit - セット売りはこちらから](http://tinyclr.jp/products/IoTLearningKit.htm)
-  
+
+### IoT Kit Emulator
+* GR版IoT Kitのエミュレーター。実ハードウェアが無い場合、こちらを利用してください。
+* [エミュレーターインストーラ](https://github.com/ms-iotkithol-jp/Library/Emulator/EGIoTKitEmulatorInstaller.msi) ←ダブルクリックしてダウンロード＆インストール
+* ※.NET Micro Frameworkプロジェクトのプロパティの.NET Micro Frameworkタブで、Emulatorリストから選択可能になります  
+
 ## 開発環境
 
 ### Windows PC
