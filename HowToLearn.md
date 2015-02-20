@@ -30,7 +30,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 ## セミナー、イベント一覧
 
 * 2015/2/28 [IoT（モノのインターネット）体験講習会 大阪](http://eccsmartapp.doorkeeper.jp/events/20724)
-* 2015/2/19-20 [Developer Summit 2015 19-B-4](http://event.shoeisha.jp/devsumi/20150219/timetable) - セミナー（満席御礼） セミナー以外も乞う御期待
+* 2015/2/19-20 [Developer Summit 2015 19-B-4](http://event.shoeisha.jp/devsumi/20150219/timetable) - セミナー（満席御礼） セミナー来ていただいた皆さん、ありがとう。ハンズオン参加されたみなさんお疲れ様でした
 * 2015/2/6 [IoT（モノのインターネット）体験講習会 奈良](http://www.pref.nara.jp/item/133489.htm) - 好評のうちに終了
 * 2015/1/30-31 [沖縄IT津梁祭り](http://www.it-matsuri.net/index.html) IoT Kit展示 タッチ＆トライ - 来場された皆様ありがとうございました‼
 * 2015/1/26 [Azure Camp IoT Kit ハンズオントレーニングセミナー](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032609294&Culture=ja-JP&community=0) - 終了しました
