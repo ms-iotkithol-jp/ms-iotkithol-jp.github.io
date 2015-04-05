@@ -27,6 +27,7 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 * [エミュレーターインストーラ](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/EGIoTKitEmulatorInstaller.msi?raw=true) ←ダブルクリックしてダウンロード＆インストール
 * ※.NET Micro Frameworkプロジェクトのプロパティの.NET Micro Frameworkタブで、Emulatorリストから選択可能になります。 
 * [エミュレーター用ライブラリ一式](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/EmulatorLibrary.zip?raw=true) ←ダブルクリックしてダウンロード＆ブロック外して解凍
+* [エミュレータセットアップと学習の仕方](http://blogs.msdn.com/b/hirosho/archive/2015/04/06/howtolearniotkitholwithemulator.aspx)
 
 ## 開発環境
 
