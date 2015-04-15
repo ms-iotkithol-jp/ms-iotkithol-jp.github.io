@@ -1,9 +1,9 @@
 # Site settings
-title: Windows Developer Program for IoT
-email: 
+title: IoT Kit Hands-on Training Site
+email: iotkithol-jp@microsoft.com
 description: ""
 baseurl: ""
-url: "http://windowsondevices.com"
+url: "http://aka.ms/IoTKitHoL"
 
 # Build settings
 markdown: kramdown
