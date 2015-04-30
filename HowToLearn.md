@@ -29,6 +29,9 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 ## セミナー、イベント一覧
 
+* 2015/6/16  IoT Kitハンズオンセミナー（仮称）@青森
+* 2015/6/14  IoT Kitハンズオンセミナー（仮称）@札幌
+* 2015/5/9   IoT Kitハンズオンセミナー―マイコンとクラウドとの連携を体験する― @長岡
 * 2015/4/25  [ふくあず 春のIoT祭り　～IoT ハンズオンとAzureとわたし～ 【JAZUG福岡支部】@福岡](https://jazug.doorkeeper.jp/events/22353) - 募集中
 * 2015/4/23  [IoT(InternetofThings) Kitハンズオンセミナー＠松江](https://itradar.doorkeeper.jp/events/22529) - 募集中
 * 2015/4/22  [IoT Kitハンズオンセミナー＠広島](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622021&Culture=ja-JP&community=0) - 募集中

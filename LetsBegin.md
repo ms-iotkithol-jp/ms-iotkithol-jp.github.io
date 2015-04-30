@@ -31,7 +31,7 @@ permalink: /LetsBegin.htm
 ### 他にも
 こんなコンテンツもあります、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
-[Azure IoT 接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/MicrosoftAzureIoTEventHub_campaign.docx?raw=true) - Windowsタブレットの加速度センサー計測値をEvent Hubに送信する演習。
+[Azure IoT 接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/MicrosoftAzureIoTEventHub_campaign.docx?raw=true) - Windowsタブレットの加速度センサー計測値をEvent Hubに送信する演習。[VibrationSenderはこちらから](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/VibrationSender.Publish.zip?raw=true)ダウンロードしてください。
 
 ### 上手く動かない‼
 そんな時は、[.NET Gadgeteer Tips](http://blogs.msdn.com/b/hirosho/archive/2014/08/11/net_5f00_gadgeteer_5f00_tips.aspx)を参考にしてみてください。
