@@ -31,10 +31,11 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 * 2015/6/16  IoT Kitハンズオンセミナー（仮称）@青森
 * 2015/6/14  IoT Kitハンズオンセミナー（仮称）@札幌
-* 2015/5/9   IoT Kitハンズオンセミナー―マイコンとクラウドとの連携を体験する― @長岡
-* 2015/4/25  [ふくあず 春のIoT祭り　～IoT ハンズオンとAzureとわたし～ 【JAZUG福岡支部】@福岡](https://jazug.doorkeeper.jp/events/22353) - 募集中
-* 2015/4/23  [IoT(InternetofThings) Kitハンズオンセミナー＠松江](https://itradar.doorkeeper.jp/events/22529) - 募集中
-* 2015/4/22  [IoT Kitハンズオンセミナー＠広島](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622021&Culture=ja-JP&community=0) - 募集中
+* 2015/6/10  IoT Kitハンズオンセミナー (仮称) @香川
+* 2015/5/9   IoT Kitハンズオンセミナー―マイコンとクラウドとの連携を体験する― @長岡　- 終了
+* 2015/4/25  [ふくあず 春のIoT祭り　～IoT ハンズオンとAzureとわたし～ 【JAZUG福岡支部】@福岡](https://jazug.doorkeeper.jp/events/22353) - 終了
+* 2015/4/23  [IoT(InternetofThings) Kitハンズオンセミナー＠松江](https://itradar.doorkeeper.jp/events/22529) - 終了
+* 2015/4/22  [IoT Kitハンズオンセミナー＠広島](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622021&Culture=ja-JP&community=0) - 終了
 * 2015/3/16  [IoT(InternetofThings) Kitハンズオンセミナー＠山形](https://docs.google.com/forms/d/111ttZFk1_9cXz7aP9yRC6ItqsJ9K-EjJifq8XnScjPA/viewform?c=0&w=1) - 終了
 * 2015/3/9  [IoT(InternetofThings) KitHandsonトレーニング＠なごや](http://partake.in/events/a7d9efc3-c5bc-4d2a-b447-4674ce5cd4f6) - 終了
 * 2015/2/28 [IoT（モノのインターネット）体験講習会 大阪](http://eccsmartapp.doorkeeper.jp/events/20724)　- 終了
