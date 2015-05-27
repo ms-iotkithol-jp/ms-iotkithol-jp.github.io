@@ -20,11 +20,11 @@ permalink: /LetsBegin.htm
 
 ### 詳細手順書
 * [Step 0．準備編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning00_Overview.docx?raw=true)　-  2015/1/29改定 
-* [Step 1．接続編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning01_Connect.docx?raw=true)　- Web API, Event Hub, .NET Micro Framework - 2015/5/8改定
-* [Step 2．計測編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)　- Web API, Event Hub - 2015/4/6改定
+* [Step 1．接続編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning01_Connect.docx?raw=true)　- Web API, Event Hub, .NET Micro Framework - 2015/5/27改定
+* [Step 2．計測編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning02_Measure.docx?raw=true)　- Web API, Event Hub - 2015/5/27改定
 * [Step 3．蓄積編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning03_Store.docx?raw=true)　- Azure Storage, Web Job - 2015/4/14改定
 * [Step 4．表示編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning04_Show.docx?raw=true) - Web Apps, Azure SQL, Mobile Apps, Windows Store Apps　- 2015/4/14改定
-* [Step 5．分析編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- Excel PowerQuery/PowerMap, Stream Analytics, Machine Learning - 2015/4/5改定
+* [Step 5．分析編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- Excel PowerQuery/PowerMap, Stream Analytics, Machine Learning - 2015/5/27改定
 * [おまけ 実習チャート(EXCEL)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/TrainingChart.xlsx)　- プロジェクトと作業のマップ
 
 
