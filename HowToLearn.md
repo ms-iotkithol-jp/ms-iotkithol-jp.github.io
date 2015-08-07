@@ -13,6 +13,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 ### このハンズオンで学べる技術一覧
 
+* Windows 10 IoT Core　- 予定
 * .NET Micro Framework
 * Visual Studio
 * Azure Web Sites
@@ -26,10 +27,18 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 * Azure Stream Analytics
 * Azure Machine Learning
 * Azure Virtual Machine
+* Azure IoT Hub - 予定
+* AllJoyn - 予定
 
 ## セミナー、イベント一覧
 
-* 2015/8/4   [Microsoftのテクノロジーで実現する‼ Internet of Things@品川](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032643458&Culture=ja-JP&community=0) - 集客中
+* 2015/10/23　IoT Kitハンズオンセミナー＠沖縄 
+* 2015/10/19　IoT Kitハンズオンセミナー＠福岡 
+* 2015/10/12　IoT Kitハンズオンセミナー＠札幌 
+* 2015/10/6　 IoT Kitハンズオンセミナー＠名古屋 
+* 2015/9/28　 IoT Kitハンズオンセミナー＠大阪 
+* 2015/9/15-16 IoT Kitハンズオンセミナー＠品川
+* 2015/8/4   [Microsoftのテクノロジーで実現する‼ Internet of Things@品川](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032643458&Culture=ja-JP&community=0) - 終了
 * 2015/6/16  [IoT Kitハンズオンセミナー@青森](https://sites.google.com/site/aomoriiot/H27/1) - 終了
 * 2015/6/14  [IoT Kitハンズオンセミナー@札幌](http://iot-algyan-do.connpass.com/event/15188/) - 終了
 * 2015/6/10  IoT Kitハンズオンセミナー @香川

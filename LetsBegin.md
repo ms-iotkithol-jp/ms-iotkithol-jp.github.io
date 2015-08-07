@@ -27,11 +27,14 @@ permalink: /LetsBegin.htm
 * [Step 5．分析編(WORD手順書)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/IoTKit_SelfLearning05_Analysis.docx?raw=true)　- Excel PowerQuery/PowerMap, Stream Analytics, Machine Learning - 2015/5/27改定
 * [おまけ 実習チャート(EXCEL)](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/TrainingChart.xlsx)　- プロジェクトと作業のマップ
 
+※現在内容改定中。PinKit対応版、Windows 10 IoT Core対応版、管理編、シナリオ編、など追加予定
 
 ### 他にも
 こんなコンテンツもあります、[GadgeteerとAzureで作る簡易温度計 Part1](http://blogs.msdn.com/b/hirosho/archive/2014/07/25/gadgeteer-azure-part-1.aspx) 、[GadgeteerとAzureで作る簡易温度計 Part2](http://blogs.msdn.com/b/hirosho/archive/2014/07/26/gadgeteer-azure-part-2.aspx)をお試しください。
 
 [Azure IoT 接続編](https://github.com/ms-iotkithol-jp/Training/blob/master/Documents/MicrosoftAzureIoTEventHub_campaign.docx?raw=true) - Windowsタブレットの加速度センサー計測値をEvent Hubに送信する演習。
+
+[Internet of Things植物栽培](http://www.microsoftvirtualacademy.com/training-courses/iotplant?m=26987) - 植物の生育状況を画像記録、生育環境をセンサーで計測・蓄積 - 記録データの活用編を現在準備中
 
 ### 上手く動かない‼
 そんな時は、[.NET Gadgeteer Tips](http://blogs.msdn.com/b/hirosho/archive/2014/08/11/net_5f00_gadgeteer_5f00_tips.aspx)を参考にしてみてください。
