@@ -9,12 +9,10 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 
 ## ハードウェア
 
-### GR版 IoT Kit（仮称）
+### PinKit
 各種センサー付.NET Micro Framework対応ボード
 
 * GR-PEACH(RZ 400Mhz, RAM8MB)、センサー付ボード
-* 予定価格 9000円前後
-* 販売開始時期 調整中
 * 販売場所 http://wakamatsu.co.jp
 
 ### FEZ版 IoT Kit - IoT Learning Kit IoT 学習キット
@@ -42,7 +40,12 @@ IoT Kitハンズオントレーニングに必要なハードウェア、開発�
 ※有償版、無償版共に利用可能
 FEZ版 IoT Kitの場合、[IoT Kit開発環境セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2014/12/03/iot-kit.aspx)を参照して環境構築（1～5までとAzure SDKのインストール）
 
-GR PEACH, SAKURAの場合、[IoT Kit開発環境セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2014/12/03/iot-kit.aspx)を参照して環境構築（１～2までとAzure SDKのインストール）
+### .NET Micro Framework
+* GR PEACH, SAKURAの場合、[IoT Kit開発環境セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2014/12/03/iot-kit.aspx)を参照して環境構築（１～2までとAzure SDKのインストール）
+* GR SAKURAで.NET Micro Frameworkを動かす - [セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2015/03/19/howtosetupnetmfongrsakura.aspx)
+* GR PEACHで.NET Micro Frameworkを動かす - [セットアップ方法](http://blogs.msdn.com/b/hirosho/archive/2015/05/15/pinkit-gr-peach-net-micro-framework.aspx)
+
+※GR PEACHの場合、Visual Studio 2015でも開発可能
 
 ### その他
 
