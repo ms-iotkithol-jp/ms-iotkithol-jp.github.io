@@ -11,6 +11,8 @@ permalink: /HowToLearn.htm
 
 IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）によるオンライントレーニングを通じての自学習、または、マイクロソフトや各種団体が実施するハンズオンセミナーによる集合形式のセミナー等での受講が可能です。
 
+2015年9月22日現在、提供中のハンズオンセミナーの資料は[こちら](https://doc.co/M7uGBD)から
+
 ### このハンズオンで学べる技術一覧
 
 * Windows 10 IoT Core　- 予定
@@ -34,7 +36,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 * 2015/10/23　IoT Kitハンズオンセミナー＠沖縄 
 * 2015/10/19　IoT Kitハンズオンセミナー＠福岡 
-* 2015/10/17　IoT Kitハンズオンセミナー＠鹿児島 
+* 2015/10/17　[IoT Kitハンズオンセミナー＠鹿児島](https://html5j-kagoshima.doorkeeper.jp/events/31228) 
 * 2015/10/13　[IoT Kitハンズオンセミナー＠札幌](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670575&Culture=ja-JP&community=0)
 * 2015/10/6　 [IoT Kitハンズオンセミナー＠名古屋](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670573&Culture=ja-JP&community=0) 
 * 2015/9/28　 [IoT Kitハンズオンセミナー＠大阪](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670352&Culture=ja-JP&community=0)
