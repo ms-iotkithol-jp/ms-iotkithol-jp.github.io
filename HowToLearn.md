@@ -11,7 +11,7 @@ permalink: /HowToLearn.htm
 
 IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）によるオンライントレーニングを通じての自学習、または、マイクロソフトや各種団体が実施するハンズオンセミナーによる集合形式のセミナー等での受講が可能です。
 
-2015年9月22日現在、提供中のハンズオンセミナーの資料は[こちら](https://doc.co/M7uGBD)から
+2015年9月22日現在、提供中のハンズオンセミナーの資料は[こちら](http://aka.ms/iotkholv2on)から
 
 ### このハンズオンで学べる技術一覧
 
@@ -40,7 +40,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 * 2015/10/13　[IoT Kitハンズオンセミナー＠札幌](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670575&Culture=ja-JP&community=0) - 募集中
 * 2015/10/6　 [IoT Kitハンズオンセミナー＠名古屋](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670573&Culture=ja-JP&community=0)  - 募集中
 * 2015/9/28　 [IoT Kitハンズオンセミナー＠大阪](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032670352&Culture=ja-JP&community=0) - 募集中
-* 2015/9/25  [IoTデータを活用してみよう」＠奈良](http://www.pref.nara.jp/item/144988.htm#moduleid60194) - 募集中
+* 2015/9/25  [IoTデータを活用してみよう」＠奈良](http://www.pref.nara.jp/item/144988.htm#moduleid60194) - 終了
 * 2015/9/16  [IoT Kitハンズオンセミナー＠品川](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032655578&Culture=ja-JP&community=0)  - 終了、超満員御礼
 * 2015/9/15  [IoT Kitハンズオンセミナー＠品川](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032655577&Culture=ja-JP&community=0) - 終了、満員御礼
 * 2015/8/4   [Microsoftのテクノロジーで実現する‼ Internet of Things@品川](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032643458&Culture=ja-JP&community=0) - 終了
