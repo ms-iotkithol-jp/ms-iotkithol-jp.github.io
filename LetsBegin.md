@@ -11,6 +11,40 @@ permalink: /LetsBegin.htm
 
 
 ## 学習コンテンツの提供
+### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
+IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
+
+###学習内容
+* 準備：組込み機器のセットアップ
+* Step 1 - 組込み機器のクラウドへの接続
+* Step 2 - 組込み機器接続情報管理
+* Step 3 - センサーデータをEvent Hubに送信
+* Step 4 - Stream Analyticsによるデータ分析・保存
+* Step 5 - Power BIによるデータ表示
+* Step 6 - Machine Learningによる学習モデル作成
+* Step 7 - モノの状態表示 Webアプリの作成
+* Step 8 - センサーデータの監視と通知
+
+[上記](http://aka.ms/IoTKitHoLV2On)のコンテンツの実習教材は、以下の通りです
+
+* PinKit - [GR-PEACH](http://www.core.co.jp/product/m2m/gr-peach/)+センサーボード(加速度センサー、温度センサー） ※[IoTあるじゃん](https://www.facebook.com/groups/ioytjp/)プロデュースのボードセット
+* .NET Micro Framework搭載で、C#で学習
+
+[Windows 10 IoT Core for Raspberry Pi2](http://WindowsOnDevices.com)を使って実習したい場合は、上記のコンテンツの、準備からStep 3までを[Windows 10 IoT Core for Raspberry Pi2版実習資料](https://doc.co/4dEWrJ)に記載の内容で、実習を行ってください。
+
+モノが手元にない方は、Windows 7以上のPCで実習いただける、[エミュレータ版実習資料](https://doc.co/nSMnKG)に記載の内容で、上記のコンテンツの、準備からStep 3までを置き換えて実習してください。
+
+実習に当たっては、Azure Subscriptionや、Visual Studio、及び、関連するSDKのインストール等の準備が必要です。実習を始める前に、[IoTハンズオン事前準備手順書](https://doc.co/pyEyVg)を隅から隅まで読んで、開発環境を整えてから実習を始めてください。
+
+### その他関連コンテンツ
+* [Windows 10 IoT Core for Raspberry Pi2による画像アップロード](https://doc.co/JZiumb)
+* [Azure IoT Hubを使った実習資料](https://doc.co/B7jfRN)
+
+### ご協力のお願い
+
+皆さまがお持ちのモノを、Windows 10 IoT CoreやPinKitと置き換えて実習できる手順書募集中です。
+
+### Version1 - 2014/11-2015/8
 学習コンテンツは、[Microsoft Virtual Academy](http://msdn.microsoft.com/ja-jp/dn376515.aspx) から2014年11月か
 ら順次提供開始。早速はじめましょう。
 
