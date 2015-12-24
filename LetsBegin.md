@@ -28,7 +28,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 [上記](http://aka.ms/IoTKitHoLV2On)のコンテンツの実習教材は、以下の通りです
 
 * PinKit - [GR-PEACH](http://www.core.co.jp/product/m2m/gr-peach/)+センサーボード(加速度センサー、温度センサー） ※[IoTあるじゃん](https://www.facebook.com/groups/ioytjp/)プロデュースのボードセット
-* .NET Micro Framework搭載で、C#で学習
+* [.NET Micro Framework](http://www.netmf.com/)搭載で、C#で学習
 
 [Windows 10 IoT Core for Raspberry Pi2](http://WindowsOnDevices.com)を使って実習したい場合は、上記のコンテンツの、準備からStep 3までを[Windows 10 IoT Core for Raspberry Pi2版実習資料](https://doc.co/4dEWrJ)に記載の内容で、実習を行ってください。
 
