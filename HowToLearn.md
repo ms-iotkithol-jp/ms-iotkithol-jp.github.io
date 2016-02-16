@@ -35,6 +35,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 ## セミナー、イベント一覧
 
+* 2016/2/25 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - Windows 10 for Raspberry Pi2](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x9424153fd)
 * 2015/12/11 [更に強化されたAzure IoTを試してみよう@品川](http://www.microsoft.com/click/services/Redirect2.ashx?CR_EAC=300322593)
 * 2015/10/23　[IoT Kitハンズオンセミナー＠沖縄](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032671394&Culture=ja-JP&community=0) - 終了 
 * 2015/10/19　[IoT Kitハンズオンセミナー＠福岡](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032671390&Culture=ja-JP&community=0) - 終了 
