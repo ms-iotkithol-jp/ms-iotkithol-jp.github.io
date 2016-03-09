@@ -11,32 +11,34 @@ permalink: /HowToLearn.htm
 
 IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）によるオンライントレーニングを通じての自学習、または、マイクロソフトや各種団体が実施するハンズオンセミナーによる集合形式のセミナー等での受講が可能です。
 
-2015年9月22日現在、提供中のハンズオンセミナーの資料は[こちら](http://aka.ms/iotkitholv2on)から
-※Windows 10 IoT Core for Raspberry Pi2で実習したい方は、[こちら](http://aka.ms/iotkitholv2onrpi2)もご覧ください
+2016年2月25日現在、提供中のハンズオンセミナーの資料は[こちら](http://aka.ms/iotkitholv3on)から
+
+* Windows 10 IoT Core for Raspberry Pi2+FEZ HATで実習したい方は、[こちら](https://doc.co/8VNqwE)をご覧ください
+* Windows 10 IoT Core for Raspberry Pi2+センサーで実習したい方は、[こちら](https://doc.co/JnLVmx)をご覧ください
+* WPF Emulator（デバイス無し）で実習したい方は、[こちら](https://doc.co/7fuFsw)をご覧ください
 
 ### このハンズオンで学べる技術一覧
 
-* Windows 10 IoT Core　- 予定
+* Windows 10 IoT Core
 * .NET Micro Framework
 * Visual Studio
-* Azure Web Sites
+* Azure Web Apps
 * Azure Web Job
-* Azure Event Hub
+* Azure IoT Hub
 * Azure Storage
 * Azure SQL
-* Azure Mobile Servive
-* Windows Store Apps
-* Excel Power BI
+* Azure Mobile Apps
+* Power BI
 * Azure Stream Analytics
 * Azure Machine Learning
 * Azure Virtual Machine
-* Azure IoT Hub - 予定
 * AllJoyn - 予定
 
 ## セミナー、イベント一覧
 
-* 2016/2/25 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - Windows 10 for Raspberry Pi2](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x9424153fd)
-* 2015/12/11 [更に強化されたAzure IoTを試してみよう@品川](http://www.microsoft.com/click/services/Redirect2.ashx?CR_EAC=300322593)
+* 2016/3/24 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - .NET Micro Framework/PinKit](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032737582&Culture=ja-JP&community=0)
+* 2016/2/25 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - Windows 10 for Raspberry Pi2](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x9424153fd) ~ 終了
+* 2015/12/11 [更に強化されたAzure IoTを試してみよう@品川](http://www.microsoft.com/click/services/Redirect2.ashx?CR_EAC=300322593) ~ 終了
 * 2015/10/23　[IoT Kitハンズオンセミナー＠沖縄](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032671394&Culture=ja-JP&community=0) - 終了 
 * 2015/10/19　[IoT Kitハンズオンセミナー＠福岡](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032671390&Culture=ja-JP&community=0) - 終了 
 * 2015/10/17　[IoT Kitハンズオンセミナー＠鹿児島](https://html5j-kagoshima.doorkeeper.jp/events/31228) - 終了
