@@ -36,6 +36,7 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 
 ## セミナー、イベント一覧
 
+* 2016/4/14 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - .NET Micro Framework/PinKit](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x158993dd86)
 * 2016/3/24 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - .NET Micro Framework/PinKit](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032737582&Culture=ja-JP&community=0)
 * 2016/2/25 [IoT初めの一歩 ～ まずは試してみよう!!モノの接続からデータ分析まで - Windows 10 for Raspberry Pi2](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x9424153fd) ~ 終了
 * 2015/12/11 [更に強化されたAzure IoTを試してみよう@品川](http://www.microsoft.com/click/services/Redirect2.ashx?CR_EAC=300322593) ~ 終了
