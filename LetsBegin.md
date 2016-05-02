@@ -16,6 +16,7 @@ permalink: /LetsBegin.htm
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV3On)
 
 ###学習内容
+
 * 準備：組込み機器のセットアップ
 * Step 1 - 組込み機器のクラウドへの接続
 * Step 2 - センサーデータをIoT Hubに送信
@@ -34,6 +35,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
 
 ###学習内容
+
 * 準備：組込み機器のセットアップ
 * Step 1 - 組込み機器のクラウドへの接続
 * Step 2 - 組込み機器接続情報管理
