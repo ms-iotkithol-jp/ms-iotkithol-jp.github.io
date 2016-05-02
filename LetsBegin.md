@@ -15,6 +15,7 @@ permalink: /LetsBegin.htm
 ### オンラインによる学習コンテンツ Version 3 - 2016/2から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV3On)
 
+
 ###学習内容
 
 * 準備：組込み機器のセットアップ
@@ -31,8 +32,10 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 
 [Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)も公開中
 
+
 ### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
+
 
 ###学習内容
 
