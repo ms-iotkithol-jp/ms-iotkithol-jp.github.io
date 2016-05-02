@@ -11,20 +11,22 @@ permalink: /LetsBegin.htm
 
 
 ## 学習コンテンツの提供
+
 ### オンラインによる学習コンテンツ Version 3 - 2016/2から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV3On)
 
 ###学習内容
 * 準備：組込み機器のセットアップ
 * Step 1 - 組込み機器のクラウドへの接続
-* Step 2 - 組込み機器接続情報管理
-* Step 3 - センサーデータをIoT Hubに送信
+* Step 2 - センサーデータをIoT Hubに送信
+* Step 3 - 組込み機器接続情報管理
 * Step 4 - IoT Hubでコマンドを送信
 * Step 5 - Stream Analyticsでデータ分析・保存
 * Step 6 - Power BIによるデータ表示
 * Step 7 - Machine Learningによる学習モデル作成
-* Step 8 - モノの状態表示 Webアプリの作成
-* Step 9 - センサーデータの監視と通知
+* Step 8 - Stream AnalyticsにMLを組込む
+* Step 9 - モノの状態表示 Webアプリの作成
+* Step 10 - センサーデータの監視と通知
 
 [Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)も公開中
 
