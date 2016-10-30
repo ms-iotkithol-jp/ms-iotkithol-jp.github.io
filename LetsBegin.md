@@ -16,7 +16,7 @@ permalink: /LetsBegin.htm
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV3On)
 
 
-###学習内容
+### 学習内容
 
 * 準備：組込み機器のセットアップ
 * Step 1 - 組込み機器のクラウドへの接続
@@ -30,8 +30,8 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 * Step 9 - モノの状態表示 Webアプリの作成
 * Step 10 - センサーデータの監視と通知
 
-[Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)も公開中
-
+[Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://doc.co/mtf3bT)も公開中  
+Microsoft Cognitive ServiceのEmotion API、Functionsを使ったハンズオンも公開中 →　[こちら](https://doc.co/R6yBnE)からどうぞ
 
 ### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
