@@ -37,7 +37,7 @@ Microsoft Cognitive ServiceのEmotion API、Functionsを使ったハンズオン
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
 
 
-###学習内容
+### 学習内容
 
 * 準備：組込み機器のセットアップ
 * Step 1 - 組込み機器のクラウドへの接続
