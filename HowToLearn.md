@@ -11,7 +11,7 @@ permalink: /HowToLearn.htm
 
 IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）によるオンライントレーニングを通じての自学習、または、マイクロソフトや各種団体が実施するハンズオンセミナーによる集合形式のセミナー等での受講が可能です。
 
-2016年2月25日現在、提供中のハンズオンセミナーの資料は[こちら](http://aka.ms/iotkitholv3on)から
+2017年5月9日現在、提供中のハンズオンセミナーの資料は[こちら](http://aka.ms/iotkitholv3on)から
 
 * Windows 10 IoT Core for Raspberry Pi2+FEZ HATで実習したい方は、[こちら](https://doc.co/8VNqwE)をご覧ください
 * Windows 10 IoT Core for Raspberry Pi2+センサーで実習したい方は、[こちら](https://doc.co/JnLVmx)をご覧ください
@@ -23,16 +23,16 @@ IoT Kitハンズオントレーニングは、MVA（Microsoft Virtual Academy）
 * .NET Micro Framework
 * Visual Studio
 * Azure Web Apps
-* Azure Web Job
+* Azure Functions 
 * Azure IoT Hub
 * Azure Storage
 * Azure SQL
 * Azure Mobile Apps
 * Power BI
 * Azure Stream Analytics
-* Azure Machine Learning
-* Azure Virtual Machine
-* AllJoyn - 予定
+* Azure Machine Learning 
+* Azure IoT SDK 
+* Azure IoT Gateway SDK 
 
 ## セミナー、イベント一覧
 
