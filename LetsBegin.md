@@ -32,6 +32,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 
 [Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://doc.co/mtf3bT)も公開中  
 Microsoft Cognitive ServiceのEmotion API、Functionsを使ったハンズオンも公開中 →　[こちら](https://doc.co/R6yBnE)からどうぞ
+Azure IoT Hub Device Twinサンプルも[こちら](https://github.com/ms-iotkithol-jp/DeviceTwinSample)から公開中。
 
 ### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
