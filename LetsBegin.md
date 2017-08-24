@@ -13,7 +13,7 @@ permalink: /LetsBegin.htm
 ## 学習コンテンツの提供
 
 ### オンラインによる学習コンテンツ Version 3 - 2016/2から公開中
-IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/p/s!Aihe6QsTtyqcttc9sOzMPKRN6teQFA)
+IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/f/s!Aihe6QsTtyqct5NLyb3wWWm_Xptk1g)
 
 
 ### 学習内容
@@ -30,7 +30,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 * Step 9 - モノの状態表示 Webアプリの作成
 * Step 10 - センサーデータの監視と通知
 
-デバイスのおすすめイチ押し：[Raspbian/Raspberry PI3+TI Sensor Tag CC2650版](https://1drv.ms/p/s!Aihe6QsTtyqcttc8s2zgaVgjKRE8aA)
+デバイスのおすすめイチ押し：[Raspbian/Raspberry PI3+TI Sensor Tag CC2650版](https://1drv.ms/f/s!Aihe6QsTtyqct5NLyb3wWWm_Xptk1g)
 
 
 [Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://doc.co/mtf3bT)も公開中  
