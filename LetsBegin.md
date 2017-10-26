@@ -12,6 +12,10 @@ permalink: /LetsBegin.htm
 
 ## 学習コンテンツの提供
 
+### オンラインによる学習コンテンツ Version 4  - 2017/9から公開中
+これまでの三年間のハンズオンセミナー、実案件への適用結果を踏まえ、最新テクノロジーを追加してアップデートしました。
+コンテンツは[こちら](http://github.com/ms-iotkithol-jp/IoTKitHoLV4)からどうぞ 
+
 ### オンラインによる学習コンテンツ Version 3 - 2016/2から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/f/s!Aihe6QsTtyqct5NLyb3wWWm_Xptk1g)
 
