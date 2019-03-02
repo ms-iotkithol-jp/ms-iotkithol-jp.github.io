@@ -17,7 +17,7 @@ permalink: /LetsBegin.htm
 コンテンツは[こちら](http://github.com/ms-iotkithol-jp/IoTKitHoLV4)からどうぞ 
 
 ### オンラインによる学習コンテンツ Version 3 - 2016/2から公開中
-IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/f/s!Aihe6QsTtyqct5NLyb3wWWm_Xptk1g)
+IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/p/s!Aihe6QsTtyqcttc9uDPiHs3BkUaaKA?e=oOa24E)
 
 
 ### 学習内容
@@ -34,12 +34,10 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 * Step 9 - モノの状態表示 Webアプリの作成
 * Step 10 - センサーデータの監視と通知
 
-デバイスのおすすめイチ押し：[Raspbian/Raspberry PI3+TI Sensor Tag CC2650版](https://1drv.ms/f/s!Aihe6QsTtyqct5NLyb3wWWm_Xptk1g)
+デバイスのおすすめイチ押し：[Raspbian/Raspberry PI3+TI Sensor Tag CC2650版](https://1drv.ms/p/s!Aihe6QsTtyqcttc8FlfGYobczcL6xQ?e=2UcVGS)
 
 
-[Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](http://aka.ms/IoTKitHoLV3OnRFH)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://doc.co/mtf3bT)も公開中  
-Microsoft Cognitive ServiceのEmotion API、Functionsを使ったハンズオンも公開中 →　[こちら](https://doc.co/R6yBnE)からどうぞ
-Azure IoT Hub Device Twinサンプルも[こちら](https://github.com/ms-iotkithol-jp/DeviceTwinSample)から公開中。
+[Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](https://1drv.ms/p/s!Aihe6QsTtyqct-I4agkSVTl4p6Vfsg?e=n2aFXZ)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://1drv.ms/p/s!Aihe6QsTtyqct-I5sJ0lX_uUiEpz_A?e=G5rpi6)も公開中  
 
 ### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
 IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
