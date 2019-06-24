@@ -1,5 +1,6 @@
 $(document).ready(function() {
     const apiBaseUrl = "https://egsignalrservicehub20190620.azurewebsites.net";
+    let data = { ready: false };
 
     getConnectionInfo().then(function(info) {
         let accessToken = info.accessToken;
@@ -24,10 +25,11 @@ $(document).ready(function() {
             .build();
 
         connection.on("SendData", function(obj) {
-            message = obj;
+            arrived = obj.arrived;
+            message = obj.message;
             x = message.x;
             y = message.y;
-            console.log('x=' + x + 'y=' + y);
+            console.log('time:' + arrived + 'x=' + x + 'y=' + y);
         });
 
 
