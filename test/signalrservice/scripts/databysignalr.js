@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const apiBaseUrl = "https://egsignalrservicehub20190620.azurewebsites.net ";
+    const apiBaseUrl = "https://egsignalrservicehub20190620.azurewebsites.net";
 
     getConnectionInfo().then(function(info) {
         let accessToken = info.accessToken;
