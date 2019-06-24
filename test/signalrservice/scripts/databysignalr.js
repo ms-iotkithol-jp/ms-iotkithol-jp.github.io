@@ -19,7 +19,7 @@ $(document).ready(function() {
         };
 
         const connection = new signalR.HubConnectionBuilder()
-            .withUrl(info.uri, options)
+            .withUrl(info.url, options)
             .configureLogging(signalR.LogLevel.Information)
             .build();
 
@@ -43,7 +43,7 @@ $(document).ready(function() {
 
     function getConnectionInfo() {
         return $.post({
-            url: '${apiBaseUrl}/api/SignalRInfo',
+            url: `${apiBaseUrl}/api/SignalRInfo`,
             data: {}
         }).done(function(resp, textStatus, jqXHR) {
             return resp.data;
