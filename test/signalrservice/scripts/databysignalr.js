@@ -1,6 +1,8 @@
 $(document).ready(function() {
     const apiBaseUrl = "https://egsignalrservicehub20190620.azurewebsites.net";
     let data = { ready: false };
+    textArrivedElem = document.getElementById("textArrived");
+    textMessageElem = document.getElementById("textMessage");
 
     getConnectionInfo().then(function(info) {
         let accessToken = info.accessToken;
@@ -31,6 +33,8 @@ $(document).ready(function() {
             x = message.x;
             y = message.y;
             console.log('time:' + arrived + 'x=' + x + 'y=' + y);
+            textArrivedElem.innerHTML = arrived;
+            textMessageElem.innerHTML = JSON.stringify(message);
         });
 
 
