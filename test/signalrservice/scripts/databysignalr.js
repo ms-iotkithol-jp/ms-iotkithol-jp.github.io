@@ -25,8 +25,9 @@ $(document).ready(function() {
             .build();
 
         connection.on("SendData", function(obj) {
-            arrived = obj.arrived;
-            message = obj.message;
+            var recieved = JSON.parse(obj);
+            arrived = recieved.arrived;
+            message = recieved.message;
             x = message.x;
             y = message.y;
             console.log('time:' + arrived + 'x=' + x + 'y=' + y);
