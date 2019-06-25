@@ -3,16 +3,28 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Test</title>
+    <title>Sample Viewer</title>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@aspnet/signalr@1.1.2/dist/browser/signalr.js"></script>
+    <script type="text/javascript" src="scripts/Chart.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@aspnet/signalr@1.1.2/dist/browser/signalr.js"></script>
     <script type="text/javascript" src="scripts/databysignalr.js"></script>
 </head>
 
 <body>
-    <h1>Hello</h1>
+    <h1>Received Message</h1>
     <div id="textArrived"></div><br />
     <div id="textMessage"></div>
+
+    <table>
+        <tr>
+            <td>
+                <canvas id="tempChart" width="600" height="600"></canvas>
+            </td>
+            <td>
+                <canvas id="humChart" width="600" height="600"></canvas>
+            </td>
+        </tr>
+    </table>
 </body>
 
 </html>
