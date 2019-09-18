@@ -45,7 +45,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 [Windows 10 IoT Core for Raspberry Pi2 + FEZ HAT版](https://1drv.ms/p/s!Aihe6QsTtyqct-I4agkSVTl4p6Vfsg?e=n2aFXZ)、[Rapberry Pi Raspbian、Intel Edison Yocto版](https://1drv.ms/p/s!Aihe6QsTtyqct-I5sJ0lX_uUiEpz_A?e=G5rpi6)も公開中  
 
 ### オンラインによる学習コンテンツ Version 2 - 2015/9から公開中
-IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](http://aka.ms/IoTKitHoLV2On)
+IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオントレーニング　はじめの一歩 モノの接続からデータ分析まで](https://1drv.ms/p/s!Aihe6QsTtyqcuNYVzZ51gvLXN-lk-Q?e=RWqGZg)
 
 
 ### 学習内容
@@ -60,7 +60,7 @@ IoT自学自習用コンテンツ [Internet of Things - IoT Kit ハンズオン�
 * Step 7 - モノの状態表示 Webアプリの作成
 * Step 8 - センサーデータの監視と通知
 
-[上記](http://aka.ms/IoTKitHoLV2On)のコンテンツの実習教材は、以下の通りです
+[上記](https://1drv.ms/p/s!Aihe6QsTtyqcuNYVzZ51gvLXN-lk-Q?e=RWqGZg)のコンテンツの実習教材は、以下の通りです
 
 * PinKit - [GR-PEACH](http://www.core.co.jp/product/m2m/gr-peach/)+センサーボード(加速度センサー、温度センサー） ※[IoTあるじゃん](https://www.facebook.com/groups/ioytjp/)プロデュースのボードセット
 * [.NET Micro Framework](http://www.netmf.com/)搭載で、C#で学習
